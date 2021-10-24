@@ -3,5 +3,5 @@
 ## Lab partners: Farnia Nafarifard, Younghoon Kim
 
 #### Latest issue in Github Actions of Continuous Integration Repo: https://github.com/farnaf/github-actions-for-ci/issues/7
-#### Expose GitHub Page: 
+#### Expose GitHub Page: https://farnaf.github.io/Lab5_Starter/expose.html
 #### Explore GitHub Page: 
