@@ -3,7 +3,7 @@
 window.addEventListener('DOMContentLoaded', init);
 
 var synth, voices, utterance;
-var text = '';
+var text;
 
 function init() {
   loadVoices();
